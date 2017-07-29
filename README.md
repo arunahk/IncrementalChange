@@ -23,4 +23,26 @@ We aimed to provide a solution that would...
 Our app allows you to set up a profile that tracks your total donations, shows you your next milestone to reach and shows information about your current charity. When setting up your account you can search for your favourite charity, or search for charities by different filters. It then allows you to set up an "Incremental Change" way of donation or a lump-sum payment, you can select to give your money to certain projects that each charity is running and split your donations across the board. After you have selected your charity you start donating each time you make a transaction. You can log in to your account and see your tally to see where you're at.
 
 
-## Admin for Organization
+## Admin Panel Information
+
+[Admin Panel Prototype](https://aaronbcy.wixsite.com/adminpanel)
+
+The Admin Panel is an online portal for charity organisations to manage and update relevant information. Updated information from the Admin Panel will be downloaded and displayed by the Mobile App.
+
+The Admin Panel offers the following functions:
+
+> Dashboard Tab
+* View real time usage statistics based on data colleted from the app.
+* View amount of donations received for each project.
+* Download app analytics and users data.
+
+> Manage :- Manage Milestones
+- Milestones are short appreciation messages that will be sent to users when a certain amount of donations is reached.
+* Add, Edit or Delete Milestones.
+
+> Manage :- Manage Projects
+* Add, Edit or Delete Projects.
+
+> Profile
+* Edit Organisation's Profile.
+* Can import information from Charity Organisation Register.
