@@ -16,7 +16,7 @@ Our problem focused on customer interaction with charities.
 
 We aimed to provide a solution that would...
 * Provide a way to select the best charity for the customer.
-* Set up your "Inceremental Change" (A type of donation that would round up each of your eftpos transactions to the nearest dollar and donate the difference to your charity)
+* Set up your "Incremental Change" (A type of donation that would round up each of your EFTPOS transactions to the nearest dollar and donate the difference to your charity)
 * Keep track of how much you have donated, where your money is going and reward you based on your donations.
 * Help streamline the process for tax rebates.
 
@@ -29,20 +29,20 @@ Our app allows you to set up a profile that tracks your total donations, shows y
 
 The Admin Panel is an online portal for charity organisations to manage and update relevant information. Updated information from the Admin Panel will be downloaded and displayed by the Mobile App.
 
-The Admin Panel offers the following functions:
+The Admin Panel offers the following functionality:
 
 > Dashboard Tab
-* View real time usage statistics based on data colleted from the app.
+* View real time usage statistics based on data collected from the app.
 * View amount of donations received for each project.
 * Download app analytics and users data.
 
-> Manage :- Manage Milestones
+> Manage :- Manage Milestones Tab
 - Milestones are short appreciation messages that will be sent to users when a certain amount of donations is reached.
 * Add, Edit or Delete Milestones.
 
-> Manage :- Manage Projects
+> Manage :- Manage Projects Tab
 * Add, Edit or Delete Projects.
 
-> Profile
+> Profile Tab
 * Edit Organisation's Profile.
 * Can import information from Charity Organisation Register.
