@@ -6,7 +6,7 @@
 
 Our problem focused on customer interaction with charities.
 
-> Traditionally, charities have relied on running annual appeals in order to increase donations and publicise their causes. However, the medium of spending money is changing. Cash usage in New Zealand is declining year on year, and it is not so common to have change rattling round in your pocket waiting to be spent. 
+> Traditionally, charities have relied on running annual appeals in order to increase donations and publicise their causes. However, the medium of spending money is changing. Cash usage in New Zealand is declining year on year, and it is not so common to have change rattling round in your pocket waiting to be spent.
 
 > This has seen donation values fall.
 
@@ -21,3 +21,6 @@ We aimed to provide a solution that would...
 * Help streamline the process for tax rebates.
 
 Our app allows you to set up a profile that tracks your total donations, shows you your next milestone to reach and shows information about your current charity. When setting up your account you can search for your favourite charity, or search for charities by different filters. It then allows you to set up an "Incremental Change" way of donation or a lump-sum payment, you can select to give your money to certain projects that each charity is running and split your donations across the board. After you have selected your charity you start donating each time you make a transaction. You can log in to your account and see your tally to see where you're at.
+
+
+## Admin for Organization
