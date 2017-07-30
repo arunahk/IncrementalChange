@@ -31,18 +31,18 @@ The Admin Panel is an online portal for charity organisations to manage and upda
 
 The Admin Panel offers the following functionality:
 
-> Dashboard Tab
+### Dashboard Tab
 * View real time usage statistics based on data collected from the app.
 * View amount of donations received for each project.
 * Download app analytics and users data.
 
-> Manage :- Manage Milestones Tab
+### Manage :- Manage Milestones Tab
 - Milestones are short appreciation messages that will be sent to users when a certain amount of donations is reached.
 * Add, Edit or Delete Milestones.
 
-> Manage :- Manage Projects Tab
+### Manage :- Manage Projects Tab
 * Add, Edit or Delete Projects.
 
-> Profile Tab
+### Profile Tab
 * Edit Organisation's Profile.
 * Can import information from Charity Organisation Register.
